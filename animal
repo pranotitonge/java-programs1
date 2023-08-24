@@ -1,0 +1,10 @@
+public class animal{
+public static void sound();
+}
+class Lion extends animal{
+@override
+public void sound{
+System.out.println("Lion roars");
+}
+}
+class tiger extends animal{
